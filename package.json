@@ -10,6 +10,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@grafana/faro-web-sdk": "^1.7.3",
+    "@grafana/faro-web-tracing": "^1.7.3",
     "primeicons": "^7.0.0",
     "primereact": "^10.6.6",
     "react": "^18.2.0",
